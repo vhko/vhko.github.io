@@ -1,7 +1,5 @@
 # 💻vhko的学习之旅
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown语法
 
 ```markdown
 Syntax highlighted code block
