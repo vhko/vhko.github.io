@@ -1,5 +1,4 @@
-# 💻vhko的学习之旅
-Markdown语法
+## Markdown语法
 
 ```markdown
 Syntax highlighted code block
